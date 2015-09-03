@@ -5,9 +5,13 @@ Setup steps
 
 1.  Install both `sinatra` and `thin`
 
+```sh
     $ gem install sinatra
     $ gem install thin
+```
 
 2. Run it
 
+```
     $ ruby get_random_names.rb
+```
